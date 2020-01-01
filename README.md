@@ -1,7 +1,7 @@
 # Wifi_User_Tracking
-A python script that monitors specific MAC addresses and logs them.
-N.B. -  This .py file has been heavily commented on to help beginner coders understand how it works and guide them through.
-        It is not intended for moderate
+# A python script that monitors specific MAC addresses and logs them.
+# N.B. -  This .py file has been heavily commented on to help beginner coders understand how it works and guide them through.
+#        It is not intended for moderate
 
 Recomendations:
     -Run on a raspberry pi (With wifi already up and running)
